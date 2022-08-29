@@ -1,3 +1,4 @@
+sudo apt-get update;
 sudo apt-get install git;
 sudo apt-get install spring;
 sudo apt-get install maven;
